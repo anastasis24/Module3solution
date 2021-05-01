@@ -1,0 +1,61 @@
+*{
+		box-sizing:border-box;
+	    font-family:Courier New;
+	    
+
+}
+
+#nav{
+	background-color: #C7325E !important;
+	border:2px solid black;
+
+}
+
+.h{
+	color: #024F4F;
+	 font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	padding-top:2%;
+	padding-bottom: 2%;
+
+}
+
+#navbarNavAltMarkup{
+	text-align: center;
+}
+
+section{
+	border:1px solid black;
+	background-color: grey;
+	text-align: center;
+	margin:2%;
+	}
+.chicken-p{
+	font-weight: bold;
+	color:black;
+	font-size: 35px;
+}
+.beef-p{font-weight: bold;
+	color:black;
+	font-size: 35px;}
+
+.shushi-p{font-weight: bold;
+	color:black;
+	font-size: 35px;}
+
+.liOFnav1{
+	padding: 0;
+    list-style-type: none;
+	margin-top:2%;
+}
+
+
+.liOFnav{
+	border: 1px solid black;
+}
+
+
+
+
+
